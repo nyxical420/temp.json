@@ -1,2 +1,2 @@
-# TempStash
-A temporary Data Storing service.
+# temp.json
+A temporary JSON Data Storing service.
